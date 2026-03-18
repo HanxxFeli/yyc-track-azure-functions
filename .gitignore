@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+local.settings.json
+*.js.map
+.azurefunctions/
+bin/
+obj/
